@@ -21,7 +21,7 @@ Application to search and watch official movie trailers on youtube
 
 ### Links
 
-- Live Site URL (soon)
+- [Live Site URL](https://movietrailersanaquinpm.netlify.app/)
 
 ### Built with
 
